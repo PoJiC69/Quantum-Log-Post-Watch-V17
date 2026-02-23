@@ -1,0 +1,6 @@
+numpy
+scipy
+pyserial
+cryptography
+matplotlib
+scikit-learn
